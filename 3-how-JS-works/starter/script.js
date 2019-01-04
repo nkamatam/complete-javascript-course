@@ -3,27 +3,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ///////////////////////////////////////
 // Lecture: Scoping
 
 
 // First scoping example
 
-/*
+
 var a = 'Hello!';
 first();
 
@@ -36,7 +22,7 @@ function first() {
         console.log(a + b + c);
     }
 }
-*/
+
 
 
 
@@ -66,12 +52,3 @@ function third() {
 
 ///////////////////////////////////////
 // Lecture: The this keyword
-
-
-
-
-
-
-
-
-
