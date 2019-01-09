@@ -6,6 +6,7 @@
 ///////////////////////////////////////
 // Lecture: Scoping
 
+// Added another line to test
 
 // First scoping example
 
